@@ -1,4 +1,5 @@
 '''Faça um programa para ler 2 numeros inteiros, e apresente o quociente e o resto da divisao entre eles'''
+
 num1=int(input('Digite um valor qualquer: '))
 num2=int(input('Digite o valor que deseja ser dividido: '))
 quociente=num1//num2
