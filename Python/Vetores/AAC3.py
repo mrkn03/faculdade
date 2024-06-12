@@ -107,8 +107,3 @@ while True:
     else:
         print("OPERAÇÃO INVÁLIDA. TENTE NOVAMENTE. ")
         print() #PULAR UMA LINHA APÓS OPERAÇÃO
-
-
-
-
-
