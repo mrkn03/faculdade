@@ -10,9 +10,9 @@ for i in range(10):
     vet_a.append(num)
 
 #INSERIR VALORES DO VETOR A QUE SAO DIVISIVEIS POR 5
-for i in vet_a:
-    if i % 5 ==0:
-        vet_b.append(i)
+for numero in vet_a:
+    if numero % 5 ==0:
+        vet_b.append(numero)
 
 #IMPRIMIR VETORES
 print(f"VETOR A = {vet_a}")

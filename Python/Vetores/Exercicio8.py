@@ -21,7 +21,11 @@ for i in range(10):
 for i in range(10):
     vet_c.append(vet_a[i] * vet_b[i])
 
+#FAZER A SOMA DO VETOR C
+soma = sum(vet_c)
+
 #IMPRIMIR VETORES
 print(f"VETOR A = {vet_a}")
 print(f"VETOR B = {vet_b}")
 print(f"VETOR C = {vet_c}")
+print(f"SOMA DO VETOR C = {soma}")

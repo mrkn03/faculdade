@@ -13,7 +13,8 @@ print(f"VETOR A = {vet_a}")
 
 #SUBSTITUIR VALORES DO VETOR A
 for i in range(10):
-    vet_a[i]=vet_a[i]*0
+    if vet_a[i] % 2 != 0:
+        vet_a[i]=vet_a[i]*0
 
 #IMPRIMIR VETOR A COM VALORES SUBSTITUIDOS
 print(f"VETOR A = {vet_a}")
