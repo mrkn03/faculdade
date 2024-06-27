@@ -30,4 +30,5 @@ Este repositório contém exercícios e projetos desenvolvidos durante minha gra
 - Bibliotecas: numpy, pandas, matplotlib
 
 ## Contato
-- [Seu Nome](https://github.com/mrkn03)
+- [GitHub](https://github.com/mrkn03)
+- [E-mail](marcos.fernandes0324@gmail.com)
