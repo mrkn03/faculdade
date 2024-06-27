@@ -3,7 +3,7 @@
 Este repositório contém exercícios e projetos desenvolvidos durante minha graduação.
 
 ## Conteúdo
-- **Exercício 1**: Resolução do exercício X.
+- **Exercício 1**: Resolução dod exercíciod.
 - **Projeto Final**: Implementação do projeto Y.
 
 ## Como Executar
