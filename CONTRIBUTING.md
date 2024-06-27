@@ -1,6 +1,22 @@
-# Contribuindo
+# Guia de Contribuição
 
-1. Faça um fork do repositório.
-2. Crie uma branch para sua contribuição.
-3. Envie um pull request detalhado.
+Obrigado por considerar contribuir para este projeto! Siga os passos abaixo para fazer sua contribuição.
 
+## Processo de Contribuição
+1. Faça um fork deste repositório.
+2. Crie uma branch com sua feature ou correção.
+    ```bash
+    git checkout -b feature/nova-feature
+    ```
+3. Commit suas mudanças.
+    ```bash
+    git commit -m 'Adiciona nova feature'
+    ```
+4. Envie suas mudanças para o repositório remoto.
+    ```bash
+    git push origin feature/nova-feature
+    ```
+5. Abra um Pull Request.
+
+## Código de Conduta
+Respeite os outros contribuidores e siga nosso [Código de Conduta](CODE_OF_CONDUCT.md).
