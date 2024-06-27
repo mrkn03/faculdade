@@ -17,6 +17,3 @@ Obrigado por considerar contribuir para este projeto! Siga os passos abaixo para
     git push origin feature/nova-feature
     ```
 5. Abra um Pull Request.
-
-## Código de Conduta
-Respeite os outros contribuidores e siga nosso [Código de Conduta](CODE_OF_CONDUCT.md).
